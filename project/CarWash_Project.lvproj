@@ -20,6 +20,7 @@
 			<Item Name="CarWash_Controller.vi" Type="VI" URL="../CarWash_Controller.vi"/>
 			<Item Name="Controller_QueueOperations_FGV.vi" Type="VI" URL="../Controller_QueueOperations_FGV.vi"/>
 			<Item Name="Close_VIs.vi" Type="VI" URL="../Close_VIs.vi"/>
+			<Item Name="#typedef_Data_Controller.ctl" Type="VI" URL="../#typedef_Data_Controller.ctl"/>
 		</Item>
 		<Item Name="Database" Type="Folder">
 			<Item Name="ConfigurationDatabase_Module.vi" Type="VI" URL="../ConfigurationDatabase_Module.vi"/>
@@ -29,17 +30,20 @@
 			<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		</Item>
 		<Item Name="UserView" Type="Folder">
+			<Item Name="#typedef_Data_Entry.ctl" Type="VI" URL="../#typedef_Data_Entry.ctl"/>
 			<Item Name="#typedef_EntryConsole_Action_enum.ctl" Type="VI" URL="../#typedef_EntryConsole_Action_enum.ctl"/>
 			<Item Name="#typedef_WashDisplay_Action_enum.ctl" Type="VI" URL="../#typedef_WashDisplay_Action_enum.ctl"/>
 			<Item Name="UserView_WashDisplay_Console.vi" Type="VI" URL="../UserView_WashDisplay_Console.vi"/>
 			<Item Name="UserView_Entry_Console.vi" Type="VI" URL="../UserView_Entry_Console.vi"/>
 			<Item Name="Entry_QueueOperations_FGV.vi" Type="VI" URL="../Entry_QueueOperations_FGV.vi"/>
 			<Item Name="WashDisplay_QueueOperations_FGV.vi" Type="VI" URL="../WashDisplay_QueueOperations_FGV.vi"/>
+			<Item Name="#typedef_Data_WashDisplay.ctl" Type="VI" URL="../#typedef_Data_WashDisplay.ctl"/>
 		</Item>
 		<Item Name="VehiclePosition" Type="Folder">
 			<Item Name="#typedef_VehiclePosition_Action_enum.ctl" Type="VI" URL="../#typedef_VehiclePosition_Action_enum.ctl"/>
 			<Item Name="VehiclePosition_Interface.vi" Type="VI" URL="../VehiclePosition_Interface.vi"/>
 			<Item Name="VehiclePos_QueueOperations_FGV.vi" Type="VI" URL="../VehiclePos_QueueOperations_FGV.vi"/>
+			<Item Name="#typedef_Data_VehiclePos.ctl" Type="VI" URL="../#typedef_Data_VehiclePos.ctl"/>
 		</Item>
 		<Item Name="test_VI.vi" Type="VI" URL="../test_VI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
