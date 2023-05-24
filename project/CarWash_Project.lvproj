@@ -31,13 +31,13 @@
 		</Item>
 		<Item Name="UserView" Type="Folder">
 			<Item Name="#typedef_Data_Entry.ctl" Type="VI" URL="../#typedef_Data_Entry.ctl"/>
+			<Item Name="#typedef_Data_WashDisplay.ctl" Type="VI" URL="../#typedef_Data_WashDisplay.ctl"/>
 			<Item Name="#typedef_EntryConsole_Action_enum.ctl" Type="VI" URL="../#typedef_EntryConsole_Action_enum.ctl"/>
 			<Item Name="#typedef_WashDisplay_Action_enum.ctl" Type="VI" URL="../#typedef_WashDisplay_Action_enum.ctl"/>
 			<Item Name="UserView_WashDisplay_Console.vi" Type="VI" URL="../UserView_WashDisplay_Console.vi"/>
 			<Item Name="UserView_Entry_Console.vi" Type="VI" URL="../UserView_Entry_Console.vi"/>
 			<Item Name="Entry_QueueOperations_FGV.vi" Type="VI" URL="../Entry_QueueOperations_FGV.vi"/>
 			<Item Name="WashDisplay_QueueOperations_FGV.vi" Type="VI" URL="../WashDisplay_QueueOperations_FGV.vi"/>
-			<Item Name="#typedef_Data_WashDisplay.ctl" Type="VI" URL="../#typedef_Data_WashDisplay.ctl"/>
 		</Item>
 		<Item Name="VehiclePosition" Type="Folder">
 			<Item Name="#typedef_VehiclePosition_Action_enum.ctl" Type="VI" URL="../#typedef_VehiclePosition_Action_enum.ctl"/>
