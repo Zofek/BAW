@@ -1,0 +1,8 @@
+1	Under Body Wash	30
+1	Bug Remover	20
+2	Pre-Soak	50
+2	High Pressure Wash 	60
+2	Low Pressure Wax	45
+2	Spot Free Rinse	50
+3	Tire Shine Foam	45
+3	Air Dry	50
