@@ -1,21 +1,4 @@
-1. DONE zmodyfikować FGV Queue tak, aby kazdy moduł miał swój osobny i odpowiednio zaktualizowac
-launcher i carwash controller
+1. wprowadzic typ danych, w ktorym bedziemy przechowywac kolejke
+stanow ktore nalezy wykonywac nastepnie
 
-2. zastanowić się jak moze wyglądać stan RUN w launcherze - czy np wtedy powinnismy podac do kolejki 
-komende run i bedzie ona sprawdzana w modulach - jesli run to robia dalej swoje, jesli
-cos innego to nalezy to odpowiednio obsluzyc
-
-3. czy nie lepiej gdyby wszystkie dane przekazywane kolejką były typu wariant
-a nie cluster typedef?
-
-4. zmodyfikowac poszczegolne moduly tak, aby mialy stan init i pozniej idle,
-z ktorego wysla np komunikat o swojej nazwie i jestesmy w stanie to odczytac 
-i wyswietlic z poziomu controllera
-
-5. jesli 4 zadziala - dodać obsluge zdarzenia "panel close" w module user view
-a w vehicle position interface zablokowac mozliwosc zamykania
-
-6.module user view informuje kontroler i kontroler wysyla zadanie 
-zamkniecia komunikacji miedzy modulami i zamkniecia
-
-7. controller czeka na ack od modulow, na koncu zamyka sam siebie
+2. doprowadzic do dzialania jeden cykl obsługi 

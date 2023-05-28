@@ -21,6 +21,8 @@
 			<Item Name="Controller_QueueOperations_FGV.vi" Type="VI" URL="../Controller_QueueOperations_FGV.vi"/>
 			<Item Name="Close_VIs.vi" Type="VI" URL="../Close_VIs.vi"/>
 			<Item Name="CarWash_Controller.vi" Type="VI" URL="../CarWash_Controller.vi"/>
+			<Item Name="#typedef_WashStates.ctl" Type="VI" URL="../#typedef_WashStates.ctl"/>
+			<Item Name="#typedef_WashStepInfo.ctl" Type="VI" URL="../#typedef_WashStepInfo.ctl"/>
 		</Item>
 		<Item Name="Database" Type="Folder">
 			<Item Name="ConfigurationDatabase_Module.vi" Type="VI" URL="../ConfigurationDatabase_Module.vi"/>
@@ -46,6 +48,7 @@
 			<Item Name="#typedef_Data_VehiclePos.ctl" Type="VI" URL="../#typedef_Data_VehiclePos.ctl"/>
 			<Item Name="VehiclePosition_Interface.vi" Type="VI" URL="../VehiclePosition_Interface.vi"/>
 			<Item Name="VehiclePos_QueueOperations_FGV.vi" Type="VI" URL="../VehiclePos_QueueOperations_FGV.vi"/>
+			<Item Name="#typedef_VehiclePos_enum.ctl" Type="VI" URL="../#typedef_VehiclePos_enum.ctl"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
