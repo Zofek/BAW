@@ -18,11 +18,11 @@
 		<Item Name="Controller" Type="Folder">
 			<Item Name="#typedef_Controller_Action_enum.ctl" Type="VI" URL="../#typedef_Controller_Action_enum.ctl"/>
 			<Item Name="#typedef_Data_Controller.ctl" Type="VI" URL="../#typedef_Data_Controller.ctl"/>
+			<Item Name="#typedef_WashStates.ctl" Type="VI" URL="../#typedef_WashStates.ctl"/>
+			<Item Name="#typedef_WashStepInfo.ctl" Type="VI" URL="../#typedef_WashStepInfo.ctl"/>
 			<Item Name="Controller_QueueOperations_FGV.vi" Type="VI" URL="../Controller_QueueOperations_FGV.vi"/>
 			<Item Name="Close_VIs.vi" Type="VI" URL="../Close_VIs.vi"/>
 			<Item Name="CarWash_Controller.vi" Type="VI" URL="../CarWash_Controller.vi"/>
-			<Item Name="#typedef_WashStates.ctl" Type="VI" URL="../#typedef_WashStates.ctl"/>
-			<Item Name="#typedef_WashStepInfo.ctl" Type="VI" URL="../#typedef_WashStepInfo.ctl"/>
 			<Item Name="Create_Steps_List.vi" Type="VI" URL="../Create_Steps_List.vi"/>
 		</Item>
 		<Item Name="Database" Type="Folder">
@@ -51,6 +51,7 @@
 			<Item Name="VehiclePos_QueueOperations_FGV.vi" Type="VI" URL="../VehiclePos_QueueOperations_FGV.vi"/>
 			<Item Name="#typedef_VehiclePos_enum.ctl" Type="VI" URL="../#typedef_VehiclePos_enum.ctl"/>
 		</Item>
+		<Item Name="test_VI.vi" Type="VI" URL="../test_VI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
