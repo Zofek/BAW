@@ -1,10 +1,1 @@
-1.zebrane dane z przyciskow maja byc przechowywane 
-jako tablica indeksow do wykonania + ma byc przechowywany aktualny 
-indeks wykonywanego kroku
-
-2. jak tamta modykikacja zadziala (bez innych zmian) to wtedy:
-- zaktualizowac wyswietlanie na czerwono gdy trzeba przesunac samochod na odpowiednia 
-pozycje
-- zaktualizowac wyswietlanie aktualnych stepów na wash display
-
 3. wtedy dopiero pomyslec nad Timerem - moze zewnetrzenie wywolywany modul FGV?
